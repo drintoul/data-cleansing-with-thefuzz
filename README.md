@@ -2,6 +2,6 @@
 Data Cleansing Snippets
 
 <ul>
-  <li>thefuzz-library.ipynb</li>
+  <li>thefuzz-library.py</li>
   Find and correct misspellings
 </ul>
