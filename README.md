@@ -1,4 +1,5 @@
-# data-cleansing
+# data-cleansing-with-thefuzz
+
 Data Cleansing Snippets
 
 <ul>
